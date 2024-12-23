@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+numpy
+sentence_transformers
+chromadb
+tqdm

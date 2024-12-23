@@ -1,0 +1,4 @@
+tailwind_docs/
+tailwind_vectordb/
+venv/
+__pycache__
